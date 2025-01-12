@@ -3,7 +3,7 @@
 <h1>👋 Hey there! I'm Danilo </h1> 
 <h2>🎓 Computer Science Student @ Inteli - Institute of Technology & Leadership 💻 </h2>
 <p> 🔍 Passionate about machine learning, blockchain technology, entrepreneurship and Tennis 🎾</p>
-<p>💡 "My interest in technology comes from its versatility and power to solve all kinds of problems, creating opportunities and accessibility in all aspects of society. I enjoy exploring different fields, both in life and work, and technology is a fantastic way to connects us to what we love, allowing us to go beyond limits."</p>
+<p>💡 "My interest in technology comes from its versatility and power to solve all kinds of problems, bringing opportunities and accessibility in most aspects of society. I've always enjoyed exploring different fields, both in life and work, and technology is a fantastic way to connects us to what we love, allowing us to go beyond limits."</p>
 <p>⚡️ "I’m excited to embrace new experiences, build connections, take on challenges, and be part of this incredible community @ Inteli."</p>
 <h3>🚀 Languages and Tools I Use</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
