@@ -2,10 +2,9 @@
 
 <h1>👋 Hey there! I'm Danilo </h1> 
 <h2>🎓 Computer Science Student @ Inteli - Institute of Technology & Leadership 💻 </h2>
-<p> 🔍 Passionate about machine learning, blockchain technology, entrepreneurship and Tennis 🎾</p>
-<p> 🌎 Technology holds the power to create solutions for the many problems our world faces, bringing opportunities and accessibility into people's lives.</p>
-<p> 💡 "I've always enjoyed exploring different fields, both in life and work, and technology is a fantastic way to connects us to what we love, allowing us to go beyond limits."</p>
-<p>⚡️ "I’m excited to embrace new experiences, build connections, take on challenges, and be part of this incredible community @ Inteli."</p>
+<h4> 🔍 Passionate about machine learning, blockchain technology, entrepreneurship and Tennis 🎾</h4>
+<p> 💡 "Sempre gostei de explorar diferentes áreas, tanto na vida quanto no trabalho e estudos. A tecnologia é uma maneira incrível de nos conectar com o que amamos, permitindo que ultrapassemos nossas limitações. Estou empolgado para abraçar novas experiências, construir conexões, enfrentar desafios e fazer parte dessa comunidade incrível no Inteli."</p>
+<p> 🤠 Fun Fact: Em 2022 fiz um intercâmbio para uma cidade de dois mil habitantes nos Estados Unidos. Na terceira semana de aula, mais precisamente no dia 2/2/22, ocorreu um incêncio na minha escola e tivemos que terminar o ano letivo tendo aulas dentro de uma igreja. </p>
 <h3>🚀 Languages and Tools I Use</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
