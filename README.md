@@ -3,8 +3,8 @@
 <h1>👋 Hey there! I'm Danilo </h1> 
 <h2>🎓 Computer Science Student @ Inteli - Institute of Technology & Leadership 💻 </h2>
 <p> 🔍 Passionate about machine learning, blockchain technology, entrepreneurship and Tennis 🎾</p>
-<p>"💡 My interest in technology comes from its versatility and ability to solve diverse problems, creating opportunities and accessibility. I enjoy exploring different fields, both in life and work, and I believe technology connects us to what we love and allows us to go beyond limits."</p>
-<p>"⚡️ I’m eager to embrace new experiences, build connections, take on challenges, and embark on this exciting new chapter @ Inteli."</p>
+<p>💡 "My interest in technology comes from its versatility and ability to solve diverse problems, creating opportunities and accessibility. I enjoy exploring different fields, both in life and work, and I believe technology connects us to what we love and allows us to go beyond limits."</p>
+<p>⚡️ "I’m eager to embrace new experiences, build connections, take on challenges, and embark on this exciting new chapter @ Inteli."</p>
 <h3>🚀 Languages and Tools I Use</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
