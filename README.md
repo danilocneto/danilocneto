@@ -1,4 +1,5 @@
-## Hi there 👋
+![Alt Text](assets/Welcome.gif)
+
 <h1>👋 Hello! I'm Danilo <br>  🎓 Computer Science Student @ Inteli - Institute of Technology & Leadership 💻 </h1>
 <p> 🔍 Passionate about machine learning, blockchain technology, entrepreneurship and tennis 🎾</p>
 <h2>🚀 Languages and Tools I Use</h2>
