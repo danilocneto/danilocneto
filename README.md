@@ -2,7 +2,7 @@
 
 <h1>👋 Hey there! I'm Danilo </h1> 
 <h2>🎓 Computer Science Student @ Inteli - Institute of Technology & Leadership 💻 </h2>
-<h4> 🔍 Passionate about machine learning, blockchain technology, entrepreneurship and Tennis 🎾</h4>
+<h4> 🔍 Passionate about machine learning, blockchain technology, entrepreneurship and travelling 🎾</h4>
 <p> 💡 "Sempre gostei de explorar diferentes áreas, tanto na vida, quanto no trabalho e nos estudos. A tecnologia é uma maneira incrível de nos conectar com o que amamos, permitindo que ultrapassemos nossas limitações. Estou empolgado para abraçar novas experiências, construir conexões, enfrentar desafios e fazer parte dessa comunidade incrível no Inteli."</p>
 <p> 🤠 Fun Fact: Em 2022 fiz um intercâmbio para uma cidade de dois mil habitantes no interior Estados Unidos. Na terceira semana de aula, mais precisamente no dia 2/2/22, ocorreu um incêncio na minha escola e tivemos que terminar o ano tendo aulas dentro de uma igreja. </p>
 <h3>🚀 Languages and Tools I Use</h3>
